@@ -1,6 +1,6 @@
-Task 1: software configuration.
+#Task 1: software configuration.#
 
-Subtask 1: Why did I choose to participate in the Dare IT Challenge?
+##Subtask 1: Why did I choose to participate in the Dare IT Challenge?##
 
 I have always been interested in the IT field, but I did not dare to try. It seemed to me that programmers are superhumans who create amazing things out of nothing! After the war began in Ukraine, I decided not to put aside my desires anymore. Therefore, after my arrival in Poland, I am actively looking for opportunities to develop in IT direction and I already have little experience in learning programming languages.
 
@@ -9,4 +9,4 @@ I will not hide the fact that for me, a person who has never dealt with the IT f
 And in the future I hope to become a professional!
 Which of course will change my and my family life for the better.
 
-Yevheniia Shevchenko
+*Yevheniia Shevchenko*
