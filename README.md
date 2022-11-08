@@ -9,4 +9,13 @@ I will not hide the fact that for me, a person who has never dealt with the IT f
 And in the future I hope to become a professional!
 Which of course will change my and my family life for the better.
 
+### TASK 2: selectors ###
+
+//*[@id="__next"]/form/div/div[2]/button/span[1]
+
+//*[text()="Sign in"]
+
+//child::div/button/span
+
+
 *Yevheniia Shevchenko*
